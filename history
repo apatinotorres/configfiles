@@ -1,0 +1,50 @@
+touch bottom.js
+open_with vim
+q
+mkdir Taller Regresion Logistica
+open_with 
+open_with ebook-viewer
+mkdir 13
+touch worshop13.tex
+search diagra
+mkdir Taller Automata de Pila
+touch automata-de-pila.tex
+mkdir Commutacion
+rename La Venus de Barro, Armero.jpeg
+rename Palacio de Justicia.jpeg
+rename Palacio de Justicia en llamas.jpeg
+mkdir Taller Maquina de Turing
+touch taller-Turing.tex
+mkdir Conducta de Entrada
+mkdir Temas
+mkdir Parcial 1
+rename Parcial 1 – Tópicos Especiales de Ciencias Computacionales (Resuelto).pdf
+mkdir Taller AFD
+mkdir Quiz 1
+mkdir Taller 2 Preliminares Matematicos
+mkdir Talleres Varios
+rename Automatas de pila ejercicios resueltos.pdf
+jj
+open_with zathura
+mkdir Proyecto Final
+rename
+rename proyecto-final.tex
+mkdir 14
+touch workshop14.tex
+mkdir images
+rename 01 UTBl
+delte
+find
+mkdir skins2
+open_with vlc
+open_with foliate
+set colorscheme jungle
+set colorscheme solarized
+set colorscheme snow
+set colorscheme default
+mkdir proyecto final
+rename The Rational Male (2013) - Rollo Tomassi.epub
+
+delete
+mkdir rage
+rename skeleton.tex
